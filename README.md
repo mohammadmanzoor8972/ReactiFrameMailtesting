@@ -1,2 +1,0 @@
-# ReactiFrameMailtesting
-Created with CodeSandbox
